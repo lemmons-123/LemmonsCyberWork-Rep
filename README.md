@@ -2,7 +2,7 @@
 
 This repo contains archived coursework, technical write-ups, and personal projects completed during my CybE degree and ongoing self-study.
 
-## 🧠 Areas of Focus
+## Areas of Focus
 - **Blue Team / Detection Engineering**: Azure lab simulations, Defender EDR tuning, SOC triage labs
 - **Offensive Security / Red Team**: CTF writeups, enumeration, privilege escalation paths
 - **GRC & Compliance**: Policy templates, NIST-aligned audit prep work
