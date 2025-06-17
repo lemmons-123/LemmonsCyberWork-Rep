@@ -1,26 +1,23 @@
-# Caleb Lemmons – Cybersecurity Repository
+# Caleb Lemmons – Cybersecurity Portfolio Repository
 
-This repo contains archived coursework, technical write-ups, and personal projects completed during my CybE degree and ongoing self-study.
+This repository contains coursework, technical write-ups, and self-directed projects completed during my cybersecurity degree and ongoing hands-on learning. It reflects practical skills in offense, defense, awareness development, and documentation.
 
-## Areas of Focus
-- **Blue Team / Detection Engineering**: Azure lab simulations, Defender EDR tuning, SOC triage labs
-- **Offensive Security / Red Team**: CTF writeups, enumeration, privilege escalation paths
-- **GRC & Compliance**: Policy templates, NIST-aligned audit prep work
-- **Game-Based Security Training**: Senior design project built in Unity using OWASP Top 10
+## Focus Areas
 
-## Repo Contents
+- Red & Blue Team: SOC triage simulation, alert correlation, noise reduction, enumeration, exploitation, priv esc
+- Security Education: OWASP Top 10 game development and awareness initiatives
+- Ongoing Labs: Cloud and local environment experimentation (coming soon)
 
-| Directory | Description |
-|----------|-------------|
-| `RedTeam/CTF-writeups` | Solved challenges from TryHackMe, MetaCTF, and more |
-| `BlueTeam/SOC-simulation` | Triage documentation and dashboard screenshots |
-| `BlueTeam/Azure-lab` | VM segmentation, EDR tuning, and attack detection setup |
-| `MalwareAnalysis/` | Ghidra static analysis reports |
-| `SeniorDesign-CyEscape/` | Final Unity project build, writeup, and screenshots |
+## Repo Structure
+
+| Folder | Description |
+|--------|-------------|
+| `CTF Write Ups/` | Write-ups from PicoCTF and Cyber Sentinel competitions. Organized by event, includes challenge breakdowns and flags where appropriate. |
+| `Old Class Projects/` | Archived university coursework. Includes secure coding, forensics, malware analysis, and a capstone game dev project. |
+| `Home Lab Projects/` | Placeholder for self-directed AWS, detection, and scripting experiments. Will include setup guides and screenshots. |
 
 ## Related Links
 
 - [Certifications Wallet (Accredible)](https://www.credential.net/profile/caleblemmons325708/wallet)
 - [LinkedIn](https://www.linkedin.com/in/caleb-lemmons-1683a11b6/)
-- [Portfolio Website](...)
-
+- [Portfolio Website](https://s3-url.com)
