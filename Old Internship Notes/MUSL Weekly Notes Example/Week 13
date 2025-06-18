@@ -1,0 +1,45 @@
+# Week 13
+
+This is a cleaned and summarized example of my weekly learning journal maintained during my cybersecurity internship at the Multi-State Lottery Association (MUSL). I used Notion to track key activities, tasks, security news, and personal progress throughout the internship.
+
+Week 13 was heavy on presentation prep and systems hygiene. I learned how seemingly small misconfigurations (like orphaned accounts or old scripts) can lead to big problems in enterprise systems. The security news also drove home the point that attackers will abuse *anything* — even Minecraft mods — if it gets the job done. That kind of creativity is exactly what we need to defend against.
+
+---
+
+## Date: 8.05 
+
+- Discussed low-level OS boot sequences across Windows, macOS, and Linux.
+- Troubleshot an issue involving a Lenovo machine with team lead Curtis.
+- Tweaked slides for our security awareness training presentation, focusing on clarity and structure.
+- Logged server updates and verified data integrity for monthly server logs.
+- Started gathering clarification on automated accounts used for propritery system submissions.
+
+**News:**
+- [China-Linked Hackers Compromise ISP to Deploy Malicious Software Updates](https://thehackernews.com/2024/08/china-linked-hackers-compromise-isp-to.html)
+
+---
+
+## Date: 8.06 
+
+- Researched the “Chameleon” malware targeting hospitality sectors in Canada & Europe.
+- Continued editing and dry-running presentation material for security awareness training.
+- Continued communication with our IT operations team on automation account status.
+- Practiced HTB “Windows Attack & Defense” exercises to sharpen my practical skills.
+
+---
+
+## Date: 8.07 
+
+- Learned how attackers leveraged misconfigured Jupyter notebooks and even Minecraft tooling for DDoS.
+- Practiced simulated phishing scenario lines for upcoming training presentation.
+- Reviewed Sec+ material related to identity and access management.
+- Still digging for final clarification on those stubborn automated accounts…
+
+---
+
+## Date: 8.08 
+
+- Assisted team lead with the automation of password rotation and access status verification.
+- Final dry run of security awareness “Prezi” lines before executive presentation.
+
+---
