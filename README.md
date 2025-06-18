@@ -6,7 +6,7 @@ This repository contains coursework, technical write-ups, and self-directed proj
 
 - Red & Blue Team: SOC triage simulation, alert correlation, noise reduction, enumeration, exploitation, priv esc
 - Security Education: OWASP Top 10 game development and awareness initiatives
-- Ongoing Labs: Cloud and local environment experimentation (coming soon)
+- Ongoing Labs: Cloud and local environment set up and experimentation
 
 ## Repo Structure
 
@@ -20,4 +20,4 @@ This repository contains coursework, technical write-ups, and self-directed proj
 
 - [Certifications Wallet (Accredible)](https://www.credential.net/profile/caleblemmons325708/wallet)
 - [LinkedIn](https://www.linkedin.com/in/caleb-lemmons-1683a11b6/)
-- [Portfolio Website](https://s3-url.com)
+- [Portfolio Website](https://caleblemmons.com/)
