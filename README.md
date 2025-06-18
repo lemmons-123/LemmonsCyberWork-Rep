@@ -19,5 +19,5 @@ This repository contains coursework, technical write-ups, and self-directed proj
 ## Related Links
 
 - [Certifications Wallet (Accredible)](https://www.credential.net/profile/caleblemmons325708/wallet)
-- [LinkedIn](https://www.linkedin.com/in/caleb-lemmons-1683a11b6/)
 - [Portfolio Website](https://caleblemmons.com/)
+- [LinkedIn](https://www.linkedin.com/in/caleb-lemmons-1683a11b6/)
