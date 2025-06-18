@@ -1,3 +1,5 @@
+> ⚠️ **Note:** The source code for this project is currently not accessible and is being worked on. Updates will be provided when available.
+
 # Senior Design Project – CyEscape
 
 This was a year-long capstone project created for Allstate. Our team designed a security awareness game targeting common web app and networking flaws using the OWASP Top 10 as a foundation.
