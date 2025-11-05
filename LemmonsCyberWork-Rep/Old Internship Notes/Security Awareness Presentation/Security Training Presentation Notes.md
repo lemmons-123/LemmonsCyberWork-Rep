@@ -1,75 +1,93 @@
 # Executive’s Security Training Presentation Notes
 
-[Resource Dump](https://www.notion.so/Resource-Dump-b1fd6bdf16944f8ab3c7ae9ad8735872?pvs=21)
+**How does it apply to MUSL Upper Management**
 
-[Notes](https://www.notion.so/Notes-0693f454c77f42638b2e93c6e62d5414?pvs=21)
+- A growing threat with the rise of Artificial Intelligence (AI)
+- Applicable to any and everyone with access to the internet
+- Can impact HR, Finance, IT, Communications, etc.
 
-[Demo Ideas](https://www.notion.so/Demo-Ideas-0188b5093b724de4a8d93998002530f8?pvs=21)
+**Why should they care?**
 
-## Slide 4: How are they made?
+- Impersonation!
+- Can lead to “Wayne” asking HR for personal information
+- Can lead to “Anna” asking for something to be posted/emailed out
+- A very quick and effective way to spread false information
+- Takes advantage of trustworthy people with power and access
 
-*Play Video*
+**Availability to Attackers**
 
-- The creation of deepfakes involves several key steps. It begins with data collection, where a large dataset of footage with the set target is gathered. This could include videos, images, and audio recordings from various sources on the internet like the ones Brendon mentioned earlier.
-- AI algorithms are then trained on this dataset to learn the person's facial features and expressions as well as voice tone and infliction in detail.
-- Once this is complete, the next phase involves actually combining these learned features with other source material to create the fake video or image.
-- Finally, there's an iterative refinement process where the deepfake is enhanced to improve its realism and believability. The diagram here shows how the refinement process occurs which is basically a weed out process using a discriminator that can do a good job of telling the difference between real and AI media. This multi-step approach requires little user interaction and allows even those without technical skills to create convincing deepfakes with these AI tools.
+- [GitHub DeepFaceLab](https://github.com/iperov/DeepFaceLab)
+- Demonstrates that attackers have access to numerous free tools that can be effective
+- [EasyWithAi FREE Tools](https://easywithai.com/ai-video-tools/deepfacelab/)
+- Demonstrates that attackers have access to numerous free tools that can be effective
+- *Might be good to do an activity / demonstration
 
-## Slide 5: Available Technology
+**How to spot Deepfakes / How to stay safe (non-technical)**
 
-- To reiterate, the technology for creating deepfakes is becoming increasingly accessible and many resources are now available for free.
-    - One example is the Ultimate AI Face Swap Tool. It is a free online resource that offers various tools and guides for manipulating videos, photos, and GIFs. This means without even signing up for an account, you can go into google right now and start creating your own deepfakes. It even includes features for speech and voice manipulation which is becoming more popular in free deepfake software nowadays.
-    - Another popular option is DeepFaceLab 2.0. This one is also free but requires users to download its software. DeepFaceLabs allows users to replace faces, de-age faces, replace heads, and manipulate lips and speech. This software is a lot more sophisticated than the online version but is also more intensive on your computer since it requires local processing power.
-- Regardless of which one chosen, these tools are not only effective and thorough but also easily accessible to the general public. The abundance and availability of these software and user-friendly guides mean that creating convincing deepfakes no longer requires specialized technical knowledge or expensive software. All it really takes is some free time and passion.
+- Unnatural body movements and characteristics
+- Blinking, hair colors, eye movement, hair movement
+- Social cues and behaviors
 
-## Slide 7: Put into Perspective: Old vs. New
+**How to combat Deepfakes (technical)**
 
-- The evolution of deepfake technology has been rapid and significant. Let's compare examples from 2017 to more recent ones.
+- Social media rules (looking at incorporating safeguards and algorithms to filter content)
+- Multistep authentication (verbal and internal approval for actions)
+- Separation of people and power
+- Found this helpful article – goes over Microsoft's
 
-*Play Video#1*
+**Videos/Activities/Images**
 
-- As you may have seen, the older deepfake examples were characterized by lower resolution, noticeable artifacts such as blurry edges around faces, weird eye placement, poor coloration, and less realistic movements. Also, the video shown a few slides back was from 2018 and holds similar to the video just shown. Though some of the examples themselves were silly, it shows progression and a glimpse of what's to come…
+- This is a super neat video – perhaps we want to play it? ([Link](https://www.bloomberg.com/news/videos/2018-09-26/it-s-getting-harder-to-spot-a-deep-fake-video-video))
+- https://www.youtube.com/watch?v=ZJrffEfCMrs&embeds_referring_euri=https://www.bing.com/&embeds_referring_origin=https://www.bing.com&source_ve_path=MjM4NTE&feature=emb_title
+- Thispersondoesnotexist.com (Uses GAN)
 
-*Play Video#2*
+MORE VIDS (Voice focused)
 
-- Now, in contrast to the past videos, the recent examples from 2023 showcase higher resolution, minimal artifacts, and more sophisticated audio. The movements in newer deepfakes appear more natural with improved face coloration and lip syncing making them increasingly difficult to distinguish from genuine footage.
-- This dramatic improvement in just a few years highlights the growing challenge of detecting deepfakes and underscores the potential risks they pose in various contexts like personal and enterprise security
+- [How Criminals Use AI and Voice Deepfakes to Scam You? | Cybercrime and Internet Fraud (youtube.com)](https://www.youtube.com/watch?time_continue=3&v=EGEID-_XWCM&embeds_referring_euri=https%3A%2F%2Fwww.bing.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.bing.com&source_ve_path=MjM4NTE&feature=emb_title)
 
-## Slide 12: Deepfake Video vs. MUSL
+**Slide Ideas (In no order)**
 
-- To further demonstrate the potential of deepfake technology, we attempted to create an example using one of the readily available tools. We first wrote up a short script for our subject, Wayne, and had him read it out loud while we recorded him from various angles. Now, Using DeepFaceLab, the free downloadable software, we simply put the video into the input file and let the algorithm do its thing.
-- With just these elements and some time, we were able to create a… well just take a look for yourselves
+- Title (obviously)
+- “What is Deepfakes”
+- Detailed explanation on how deepfakes are created
+- How to combat deepfakes
+- Dangers / Threats of deepfakes (will be a lot / the majority)
+- How to spot the difference
+- How to protect yourself
+- Compare Photoshop to Deepfakes
+- How MUSL could use Deepfakes (or the technology behind it)
+- Availability to attackers (what resources do they have easily accessible)
+- Perhaps a slide on real life events with Deepfakes? [Ref 1](https://www.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html) / [Ref 2](https://www.cnn.com/2024/05/16/tech/arup-deepfake-scam-loss-hong-kong-intl-hnk/index.html) / [Ref 3](https://arstechnica.com/information-technology/2024/02/deepfake-scammer-walks-off-with-25-million-in-first-of-its-kind-ai-heist/)
 
-*Play Snippet*
+# Shannon's Notes (Post Demo-attack attempt):
 
-- Yeah, so not the best… now, it was our first and only attempt but if we were to improve on the model, we would start by getting Brendon a good ol’ haircut
-- The resulting video accurately replicated key features such as skin color, eyes, and hair. This experiment illustrates how accessible and powerful these tools have become.
-- At the end of the day though, it's crucial to understand that with minimal resources, individuals can create deepfakes that closely resemble real people, and potentially for malicious purposes.
+Wayne calls a lot generally
 
-## Slide 13: Potential Impacts to MUSL
+Likeness: Sounded like him, a little robotic, not at the beginning though
+"By the end of the day" was sketchy
 
-- Now, with this technology being so readily available, bad actors are inevitably going to get their hands on it. And in the wrong hands, deepfake tech poses several negative effects and impacts to organizations like MUSL.
-- First, there's the risk of identity theft and fraud. Bad actors could impersonate MUSL staff to gain sensitive information or unauthorized access to systems.
-    - The attack on the British company is a great example of this. With sophisticated real-time deepfake technology they were able to impersonate the CFO and, in this case, gained millions of dollars
-- Another potential impact is the spreading of misinformation or manipulation of situations. This could occur if a bad actor’s whole plan is disrupting operations or decision-making processes.
-    - Say a bitter and disgruntled former employee takes advantage of similar technology as the attackers from the UK attack… With good understanding of draw procedures and the sole purpose of disrupting them, someone could potentially disguise themselves as one of the lotteries’ representatives and during a live drawing session, try and contact Sue and tell her that, say, their numbers were falsified but still happened to be submitted to FLEX. Though something like that would probably be caught, it would require extra unnecessary labor from our team which, for some vindictive people is a win.
-- That said, deepfake attacks CAN exploit the trust placed in known individuals or the organization itself. This deception can lead to severe reputational damage, undermining credibility and relationships with the general public and stakeholders, or in our case, the member lotteries.
-- Recognizing these threats is the first step in developing strategies to mitigate them.
+Whole situation was normal until the end with the urgency
 
-## Slide 17: Personal Protection
+Voice itself was good
+But was too good of quality, sounded "too" clean
 
-- So, protecting yourself from deepfake threats involves a few key strategies.
-- First and foremost is awareness and education – understanding the nature of deepfakes and staying informed about current trends.
-    - There are many awareness training guides and courses on platforms like KnowBe4 specifically catered to AI and deepfake protection. Using these resources to stay informed will help individuals better spot and negate these attacks and in turn will strength a company’s security posture.
-- Now that we are all experts in spotting deepfakes, a crucial form of protection is just to always verify and authenticate, especially when it comes from unexpected or unusual sources.
-    - Hackers are sneaky so we must always keep our eyes open for the smallest of discrepancies
-- And of course, Always report and document suspicious content or requests.
-    - Just like with sketchy phishing emails, you should always report things like suspicious calls or weird teams meeting invites.
-- I want to further iterate that victims in these corporate deepfake attacks tend to be targeted towards a single low-ranking individual of a company. Now we have a lot of leeway since we are such a small company, but personal vigilance is still key.
-    - It's important to exercise critical thinking by question the authenticity of unusual or unexpected requests, especially ones involving sensitive information or actions.
-    - Finally, and what I find most important, is practicing cross-verification. By independently confirming requests through trusted contacts or established channels we negate just about all forms of deepfake attacks.
-- These habits combined can significantly reduce the risk of falling victim to deepfake-based deception.
+If there was no warning ahead of time:
 
-## Slide 18: Conclusion
+- would've asked for an email / follow up
 
-- And with that, thank you for listening to our presentation. Do we have any questions?
+- Timing: ~45 minutes
+- Think relevance, long term, and applicable to all upper management
+
+**Slide in Order:**
+
+- Explanation and creation process
+- Comparison video
+- Available technology (ease of access and utilization)
+- Risks
+- Demonstration of its superiority over Photoshop, alongside social engineering attacks utilizing it
+- Potential misuse against MUSL
+- This would be an appropriate spot for the second interactive example (homemade deepfake)
+- Countermeasures
+- Identifying differences
+- Personal protection
+- How MUSL could utilize its the machine learning/AI technology
