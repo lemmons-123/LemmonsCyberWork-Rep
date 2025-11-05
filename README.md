@@ -1,20 +1,28 @@
 # Caleb Lemmons – Cybersecurity Portfolio Repository
-
-This repository contains coursework, technical write-ups, and self-directed projects completed during my cybersecurity degree and ongoing hands-on learning. It reflects practical skills in offense, defense, awareness development, and documentation.
+This repository showcases my cybersecurity coursework, CTF write-ups, home lab experiments, and internship documentation. It reflects my applied learning across offensive, defensive, and governance domains, with a growing emphasis on hands-on technical growth and clear documentation.
 
 ## Focus Areas
 
-- Red & Blue Team: SOC triage simulation, alert correlation, noise reduction, enumeration, exploitation, priv esc
-- Security Education: OWASP Top 10 game development and awareness initiatives
-- Ongoing Labs: Cloud and local environment set up and experimentation
+- **Blue & Red Teaming:** SOC triage, alert correlation, enumeration, exploitation, privilege escalation  
+- **Cloud & Automation:** Azure, AWS, and scripting-based detection and response labs  
+- **Security Education:** Awareness training, OWASP Top 10 game design, and presentation development  
+- **Research & Analysis:** Vulnerability scoring (CVSS → EPSS), threat modeling, and reporting  
 
-## Repo Structure
+## Repository Structure
 
 | Folder | Description |
 |--------|-------------|
-| `CTF Write Ups/` | Write-ups from PicoCTF and Cyber Sentinel competitions. Organized by event, includes challenge breakdowns and flags where appropriate. |
-| `Old Class Projects/` | Archived university coursework. Includes secure coding, forensics, malware analysis, and a capstone game dev project. |
-| `Home Lab Projects/` | Placeholder for self-directed AWS, detection, and scripting experiments. Will include setup guides and screenshots. |
+| `CTF Write Ups/` | Capture the Flag challenge write-ups from PicoCTF, MetaCTF, TryHackMe, and Cyber Sentinel events. Includes tools, methodology, and flag captures. |
+| `Home Lab Projects & Notes/` | Self-directed labs covering Azure Defender, AWS hosting, SOC simulations, and Antisyphon webinar exercises. |
+| `Old Class Projects/` | Archived university coursework, including malware analysis, forensics, secure coding, and a Unity-based awareness game capstone. |
+| `Old Internship Notes/` | Sanitized documentation from my MUSL cybersecurity internship, covering awareness training, vulnerability research, and reporting. |
+
+## Highlights
+
+- Hands-on SOC and detection engineering practice  
+- Cloud security configuration and automation  
+- Reverse engineering and exploit analysis  
+- Security awareness and executive communication experience  
 
 ## Related Links
 
