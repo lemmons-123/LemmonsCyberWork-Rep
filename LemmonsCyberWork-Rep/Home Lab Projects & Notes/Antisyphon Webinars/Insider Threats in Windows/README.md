@@ -1,4 +1,3 @@
-```markdown
 # Investigating Insider Threats with Windows Forensics – Markus Schober
 
 Summary of the Anti-Siphon webinar on insider-threat investigations using Windows artifacts, focusing on triage, artifact correlation, and real-world workflows.
