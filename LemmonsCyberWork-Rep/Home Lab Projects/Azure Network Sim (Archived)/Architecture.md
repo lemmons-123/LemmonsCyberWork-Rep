@@ -1,13 +1,3 @@
-# Azure Enterprise Network Simulation
-
-## Overview
-
-This project involved designing and deploying a simulated enterprise network environment using Microsoft Azure. The goal was to demonstrate core cloud networking, security, and infrastructure components in a secure and isolated lab. The lab was built using an **Azure for Students** subscription and served as a practical exercise in enterprise-grade cloud architecture, including segmentation, firewalling, and controlled access via bastion and routing tables.
-
-> ⚠️ Note: This lab was conducted using a temporary free-tier subscription which has since expired. Resources and configurations were removed as part of the subscription's deletion policy.
-
----
-
 ## Architecture Summary
 
 The simulated environment mimicked a small to medium sized buisiness (SMB) enterprise network consisting of the following Azure components:
@@ -67,4 +57,3 @@ If recreated or scaled up, the following additions would improve realism and com
 ## Closing Thoughts
 
 Though temporary, this simulation was an eye-opener into cloud-native network security and infrastructure. It served as an ideal sandbox to test enterprise architecture principles in a low-cost environment. Projects like this solidify your understanding of Azure’s ecosystem and are excellent material for resumes and interviews.
-

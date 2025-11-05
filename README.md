@@ -13,9 +13,10 @@ This repository showcases my cybersecurity coursework, CTF write-ups, home lab e
 | Folder | Description |
 |--------|-------------|
 | `CTF Write Ups/` | Capture the Flag challenge write-ups from PicoCTF, MetaCTF, TryHackMe, and Cyber Sentinel events. Includes tools, methodology, and flag captures. |
-| `Home Lab Projects & Notes/` | Self-directed labs covering Azure Defender, AWS hosting, SOC simulations, and Antisyphon webinar exercises. |
+| `Home Lab Projects/` | Self-directed labs covering Azure Defender, AWS hosting, SOC simulations, and Antisyphon webinar exercises. |
 | `Old Class Projects/` | Archived university coursework, including malware analysis, forensics, secure coding, and a Unity-based awareness game capstone. |
 | `Old Internship Notes/` | Sanitized documentation from my MUSL cybersecurity internship, covering awareness training, vulnerability research, and reporting. |
+| `Webinar Notes/` | Summaries and applied notes from Antisyphon and other cybersecurity webinars. Includes hands-on exercises, key takeaways, and lab replications covering topics like active defense, SOC automation, insider threat detection, and CIS auditing. |
 
 ## Highlights
 

@@ -4,7 +4,7 @@
 
 [Notes](https://www.notion.so/Notes-0693f454c77f42638b2e93c6e62d5414?pvs=21)
 
-[Demo Ideas ](https://www.notion.so/Demo-Ideas-0188b5093b724de4a8d93998002530f8?pvs=21)
+[Demo Ideas](https://www.notion.so/Demo-Ideas-0188b5093b724de4a8d93998002530f8?pvs=21)
 
 ## Slide 4: How are they made?
 
