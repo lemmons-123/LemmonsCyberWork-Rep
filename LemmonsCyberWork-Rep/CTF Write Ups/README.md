@@ -1,9 +1,9 @@
 # CTF Write Ups
 
-This folder contains write-ups from CTF competitions and practices I've participated in, including PicoCTF and the Cyber Sentinel Challenge.
+This section documents my Capture the Flag (CTF) experience across platforms like PicoCTF, MetaCTF, TryHackMe, and the Cyber Sentinel Challenge.
 
-Each folder corresponds to a specific event and includes:
-- Challenge descriptions
-- Tools used (e.g., strings, Ghidra, Burp Suite)
-- Step-by-step problem solving
-- Flag capture where appropriate
+Each folder includes:
+- Challenge context and objectives
+- Tools and techniques used (e.g. Ghidra, Burp Suite, Wireshark)
+- Step-by-step exploitation or analysis process
+- Final flag capture and key takeaways
