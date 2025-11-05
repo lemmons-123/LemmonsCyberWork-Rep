@@ -18,6 +18,9 @@ This repository houses notes and lab summaries from various Anti-Siphon webinars
 - **CIS Controls 18: Audit Prep to Reporting - Gerald Auger**  
   Breakdown of CIS 18 implementation groups, audit prep strategy, stakeholder interviews, and evidence gathering.
 
+- **Hacking JavaScript Desktop Apps with XSS and RCE — Abraham Aranguren**  
+  Deep dive into exploiting and securing Electron-based desktop applications. Covered architecture, IPC abuse, insecure Node integration, and mitigation strategies for XSS and remote code execution.
+
 ## Goal:
 To build a curated, hands-on reference for defensive ops and incident response workflows, especially for entry-level and intermediate analysts looking to upskill.
 
