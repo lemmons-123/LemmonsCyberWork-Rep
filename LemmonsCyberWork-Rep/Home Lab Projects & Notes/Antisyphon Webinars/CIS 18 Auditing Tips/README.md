@@ -1,4 +1,3 @@
-```markdown
 # CIS Controls 18 Auditing – Prep to Reporting
 
 This notesheet captures my summary from the Anti-Siphon “CIS Controls 18: Audit Prep to Reporting” webinar. It outlines how to prepare, structure, and execute a CIS 18 audit, emphasizing practical steps for evidence collection and stakeholder engagement.
