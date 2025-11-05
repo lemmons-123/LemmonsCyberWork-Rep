@@ -15,7 +15,7 @@ This repository houses notes and lab summaries from various Anti-Siphon webinars
 - **AI Agents and MCP Security Risks - Joff Thyer**
   Notes on the emerging MCP framework and its role in structured AI-agent communication and automation.
 
-- **CIS Controls 18: Audit Prep to Reporting**  
+- **CIS Controls 18: Audit Prep to Reporting - Gerald Auger**  
   Breakdown of CIS 18 implementation groups, audit prep strategy, stakeholder interviews, and evidence gathering.
 
 ## Goal:
