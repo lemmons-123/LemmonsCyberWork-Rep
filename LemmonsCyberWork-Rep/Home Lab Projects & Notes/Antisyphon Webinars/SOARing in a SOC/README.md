@@ -1,4 +1,3 @@
-```markdown
 # How to SOAR in a SOC – Hayden Covington
 
 Summary of the Anti-Siphon webinar on Security Orchestration, Automation, and Response (SOAR) with Hayden Covington, focusing on real-world SOC automation, alert management, and workflow design.
