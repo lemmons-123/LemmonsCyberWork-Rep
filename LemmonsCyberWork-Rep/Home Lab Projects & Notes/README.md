@@ -1,8 +1,9 @@
 # Home Lab Projects (In Progress)
 
-This folder will house self-directed security experiments, including:
-- Azure Defender for Endpoint simulation with alert tuning
-- SOC Tier I triage simulation using TryHackMe
-- AWS S3 static website hosting
+Hands-on experiments and notes from my personal cybersecurity lab. These projects simulate real-world detection, response, and cloud security scenarios.
 
-Coming soon: setup instructions, screenshots, and workflow notes.
+Current and planned labs:
+- Azure Defender for Endpoint alert simulation and tuning
+- SOC Tier I triage workflows using TryHackMe
+- AWS S3 static web hosting and IAM configuration
+- Antisyphon webinar exercises and applied notes
