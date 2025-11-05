@@ -1,10 +1,11 @@
-# Archived Coursework
+# Academic Projects Archive
 
-This directory contains organized course artifacts from my cybersecurity degree. Each subfolder corresponds to a class and major project.
+Archived coursework from my Cybersecurity Engineering degree. Each subfolder corresponds to a major class or project.
 
-Examples include:
-- Final capstone project building a Unity-based awareness game
+Highlights include:
 - Malware reverse engineering with Ghidra and OllyDbg
-- Forensics labs using FTK and keyword analysis
+- Network forensics and FTK analysis
+- Secure coding and buffer overflow labs
+- Capstone Unity-based cybersecurity awareness game
 
-This material reflects the breadth of my academic foundation and technical growth.
+These projects demonstrate my technical foundation and growth across multiple cybersecurity domains.
