@@ -1,4 +1,3 @@
-```markdown
 # Model Context Protocol (MCP) – Security and Deployment Notes
 
 This notesheet summarizes insights from the Anti-Siphon webinar on the Model Context Protocol (MCP), focusing on its architecture, security challenges, and best practices for safe deployment in AI-integrated environments.
@@ -25,4 +24,3 @@ This notesheet summarizes insights from the Anti-Siphon webinar on the Model Con
 - Rate‑limit and monitor outbound connections  
 
 ---
-```
