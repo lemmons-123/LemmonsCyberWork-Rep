@@ -4,7 +4,11 @@
 
 This project demonstrates the end-to-end deployment of my personal cybersecurity portfolio using **AWS**. The goal was to create a globally accessible, secure, and performant static website to showcase my skills, resume, and projects without relying on traditional web hosting platforms.
 
-The site is built with **HTML** and **TailwindCSS**, and hosted via **Amazon S3** with **CloudFront** as the CDN, **Route 53** for DNS management, and **AWS Certificate Manager (ACM)** for HTTPS.
+The site is built with **HTML**, **vanilla CSS**, and **JavaScript**, and hosted via **Amazon S3** with **CloudFront** as the CDN, **Route 53** for DNS management, and **AWS Certificate Manager (ACM)** for HTTPS.
+
+**Recent Update**: The site was recently redesigned with a retro terminal aesthetic, featuring a command-line interface theme that reflects the cybersecurity focus of the portfolio. The redesign introduced a separate JavaScript file to add interactive flair and dynamic functionality, moving beyond the basic single-file HTML/CSS approach used initially.
+
+> **Note**: The previous version of the site is preserved as `old_index.html` for reference.
 
 ---
 
